@@ -1,15 +1,6 @@
 # Portfolio
 
-
-
-## Technology used
-
-HTML, CSS, Bootstrap
-
-## Description
-
-
-portfolio featuring project 1 and two exemplary homework assignments.
+Portfolio featuring project 1 and two exemplary homework assignments.
 
 https://mshattuck.github.io/aboutme/
 
@@ -28,6 +19,10 @@ LinkedIn profile
 
 https://www.linkedin.com/in/shattuckmichael/
 
+
+## Technology used
+
+HTML, CSS, Bootstrap
 
 ## Contact
 

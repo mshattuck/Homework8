@@ -10,7 +10,7 @@ GitHub profile with pinned repositories featuring project 1 and two exemplary as
 https://github.com/mshattuck
 
 
-resume
+Resume
 
 https://mshattuck.github.io/aboutme/assets/Michael_Shattuck_Resume.pdf
 

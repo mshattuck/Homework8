@@ -2,9 +2,6 @@
 
 Homework 8
 
-## Deployment 
-
-https://mshattuck.github.io/aboutme/
 
 ## Technology used
 
@@ -12,7 +9,26 @@ HTML, CSS, Bootstrap
 
 ## Description
 
-A personal website illustrating my coding portfolio.
+
+Submit an updated portfolio featuring project 1 and two exemplary homework assignments.
+
+https://mshattuck.github.io/aboutme/
+
+
+Submit an updated GitHub profile with pinned repositories featuring project 1 and two exemplary assignments.
+
+https://github.com/mshattuck
+
+
+Submit an updated resume
+
+https://mshattuck.github.io/aboutme/assets/Michael_Shattuck_Resume.pdf
+
+
+Submit an updated LinkedIn profile
+
+https://www.linkedin.com/in/shattuckmichael/
+
 
 ## Contact
 

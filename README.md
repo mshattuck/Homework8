@@ -1,6 +1,5 @@
-# Basic-Portfolio
+# Portfolio
 
-Homework 8
 
 
 ## Technology used

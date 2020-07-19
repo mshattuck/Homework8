@@ -9,22 +9,22 @@ HTML, CSS, Bootstrap
 ## Description
 
 
-Submit an updated portfolio featuring project 1 and two exemplary homework assignments.
+portfolio featuring project 1 and two exemplary homework assignments.
 
 https://mshattuck.github.io/aboutme/
 
 
-Submit an updated GitHub profile with pinned repositories featuring project 1 and two exemplary assignments.
+GitHub profile with pinned repositories featuring project 1 and two exemplary assignments.
 
 https://github.com/mshattuck
 
 
-Submit an updated resume
+resume
 
 https://mshattuck.github.io/aboutme/assets/Michael_Shattuck_Resume.pdf
 
 
-Submit an updated LinkedIn profile
+LinkedIn profile
 
 https://www.linkedin.com/in/shattuckmichael/
 
